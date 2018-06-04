@@ -1,0 +1,19 @@
+
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    margin: 0;
+}
+
+header
+{
+    background-color: burlywood;
+    color: white;
+    height: 25vh;
+    text-align: center;
+    padding: 40px;
+}
